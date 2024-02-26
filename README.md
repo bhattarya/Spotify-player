@@ -10,3 +10,9 @@ This is only made using html and css
 - Music Player: Basic controls for playback.
 
 
+## How to use 
+
+- Download Raw file
+- make sure about assests and filename
+- you can also add custom configuration
+
